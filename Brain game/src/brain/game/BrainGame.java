@@ -15,7 +15,7 @@ public class BrainGame {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       //this is rabiah kedua pulok hhohoho
+       //this is rabiah ketiga pulok hhohoho
         //nice to meet you
     }
     
