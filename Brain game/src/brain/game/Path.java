@@ -9,13 +9,6 @@ package brain.game;
  *
  * @author Admin
  */
-public class BrainGame {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-       //my name hskhdobnmbhj
-    }
+public class Path {
     
 }
